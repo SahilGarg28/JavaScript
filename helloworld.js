@@ -1,0 +1,1 @@
+console.log("Hello, world! My sister is too hot-tempered.")
